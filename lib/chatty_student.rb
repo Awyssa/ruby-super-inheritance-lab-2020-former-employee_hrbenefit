@@ -25,6 +25,6 @@ end
 
 mike = ChattyStudent.new
 
-# mike.hello
+mike.hello
 
-mike.raise_hand
+# mike.raise_hand
