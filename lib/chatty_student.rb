@@ -24,7 +24,5 @@ class ChattyStudent < Student
 end
 
 mike = ChattyStudent.new
-
 mike.hello
-
-# mike.raise_hand
+mike.raise_hand
